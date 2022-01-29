@@ -1,0 +1,75 @@
+  <html>
+   <head>
+      <title>VueJs Instance</title>
+      <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+   </head>
+   <body>
+<style>
+	 .img-list {background-color:lightgray;}
+	 .img-list > * {
+       display:inline-block;
+	   vertical-align:top;
+       background-color:lightgray;
+     }
+	 .top {
+       display:inline-block;
+	   vertical-align:top;
+       background-color:white;
+     }
+	 .image-item {
+	     width: 200px;
+	 }
+	 .ui {
+		vertical-align:top;
+	 }
+	 .TR {
+		vertical-align:top;
+	 }
+      </style>
+
+      <TABLE  class="top">
+	   <TR>
+	   <TD>
+	   <div id = "image-list" class="img-list">
+	    <image-comp
+			v-for="i in info"
+			v-bind:name="i"
+			v-bind:title="i"
+//				v-bind:style="styleObject"
+		></image-comp> 
+	   </div>
+	   </TD>
+	   <TD width="200px">
+	   <div class="ui">
+		UI here!
+	   </div>
+	   </TD>
+	   </TR>
+      </TABLE>
+	  
+
+      <script type = "text/javascript">
+	    Vue.component('image-comp', {
+			props: ['name'],
+			data: function () {
+				return {
+//				    styleObject: { width: '220px', fontSize: '10px' },
+//					activeClass: 'image-item',
+//					name: "20210103_131730.JPG",
+					keywords: "ruovesi",
+					thumb: function() { return("output/thumb-" + this.name)},
+					preview: function() { return("output/preview-" + this.name)}
+				}
+			},
+			template: '<div class="image-item"><div><img :src="thumb()"></div><div>{{keywords}} : {{name}}</div><div><A :href="preview()">Preview</A><button>EXIF</button></div></div>',
+		});
+		new Vue({
+			el: '#image-list',
+			data: {
+				info: ["20210111_121034.JPG", "20210111_121034_02.JPG", "20210112_195259.JPG",
+					  "20210112_195303.JPG", "20210112_195309.JPG", "20210112_195343.JPG"]
+			}});
+
+      </script>
+   </body>
+</html>
