@@ -1,0 +1,69 @@
+import { createServer, IncomingMessage, ServerResponse } from 'http';
+
+
+const    pposts = [
+	{
+	    title: 'Lorem ipsum',
+    	    content: 'Dolor sit amet'
+	}
+    ];
+
+class MyServer {
+
+    port = 5000;
+
+    posts = [
+	{
+	    title: 'Lorem ipsum',
+    	    content: 'Dolor sit amet'
+	}
+    ];
+
+    constructor () {
+	const server = createServer(this.onRequest);
+	server.on( "error", (error) => {
+  	    console.log("BOOM!: ");
+	    console.log(error);
+	});
+	server.listen(this.port, () => {
+	    console.log(`Server listening on port ${this.port}`);
+	});
+	console.log("THIS=" + this + ":" + this.port);
+    }
+    
+    private onRequest(request: IncomingMessage, response: ServerResponse)  {
+    	console.log("this=" + this + ":" + this.port);
+	switch (request.url) {
+	case '/posts': {
+	    if (request.method === 'GET') {
+		response.write("POSTS:");
+		response.write(JSON.stringify(pposts));
+		response.end();
+	    }
+	    break;
+	}
+	case "/query": {
+	    if (request.method === 'POST') {
+		var input = "";
+		request.on("data", (chunk) => {
+		    console.log("data=" + chunk);
+		    input += chunk;
+		});
+		request.on("end", () => {
+		    console.log("Input=" + input);
+		    response.write("THANKS");
+		    response.end();
+		});
+	    }
+	    break;
+	}
+	default: {
+	    response.write("Not here");
+	    response.statusCode = 404;
+	    response.end();
+	}
+	}
+    }
+} ;
+
+var myServer = new MyServer();

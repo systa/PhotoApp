@@ -1,0 +1,219 @@
+ExifTool Version Number         : 11.88
+File Name                       : 20210103_131730.JPG
+Directory                       : testimages
+File Size                       : 5.3 MB
+File Modification Date/Time     : 2022:01:06 15:10:38+02:00
+File Access Date/Time           : 2022:01:06 15:29:10+02:00
+File Inode Change Date/Time     : 2022:01:06 15:10:38+02:00
+File Permissions                : rwxr-xr-x
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Make                            : NIKON CORPORATION
+Camera Model Name               : NIKON D7500
+Orientation                     : Horizontal (normal)
+X Resolution                    : 300
+Y Resolution                    : 300
+Resolution Unit                 : inches
+Software                        : Ver.1.01
+Modify Date                     : 2021:02:28 19:00:22
+Artist                          : KARI SYSTA
+Y Cb Cr Positioning             : Co-sited
+Copyright                       : 
+Exposure Time                   : 1/500
+F Number                        : 9.0
+Exposure Program                : Aperture-priority AE
+ISO                             : 500
+Sensitivity Type                : Recommended Exposure Index
+Recommended Exposure Index      : 500
+Exif Version                    : 0231
+Date/Time Original              : 2021:01:03 13:17:30
+Create Date                     : 2021:01:03 13:17:30
+Offset Time                     : +03:00
+Offset Time Original            : +03:00
+Offset Time Digitized           : +03:00
+Components Configuration        : Y, Cb, Cr, -
+Compressed Bits Per Pixel       : 4
+Exposure Compensation           : 0
+Max Aperture Value              : 4.0
+Metering Mode                   : Multi-segment
+Light Source                    : Unknown
+Flash                           : Off, Did not fire
+Focal Length                    : 24.0 mm
+Maker Note Version              : 2.11
+Quality                         : Fine
+White Balance                   : Auto1
+Focus Mode                      : AF-S
+Flash Setting                   : 
+Flash Type                      : 
+White Balance Fine Tune         : 2 0
+WB RB Levels                    : 2.846679688 1.266601562 1 1
+Program Shift                   : 0
+Exposure Difference             : 0
+Flash Exposure Compensation     : 0
+Image Boundary                  : 0 0 4176 2784
+External Flash Exposure Comp    : 0
+Flash Exposure Bracket Value    : 0.0
+Exposure Bracket Value          : 0
+Crop Hi Speed                   : DX Uncropped (5600x3728 cropped to 5600x3728 at pixel 0,0)
+Exposure Tuning                 : 0
+Serial Number                   : 6046625
+VR Info Version                 : 0100
+Vibration Reduction             : On
+VR Mode                         : Normal
+Active D-Lighting               : Auto
+Picture Control Version         : 0200
+Picture Control Name            : Auto
+Picture Control Base            : Auto
+Picture Control Adjust          : Default Settings
+Picture Control Quick Adjust    : Normal
+Clarity                         : n/a
+Brightness                      : n/a
+Hue                             : n/a
+Filter Effect                   : n/a
+Toning Effect                   : n/a
+Toning Saturation               : n/a
+Time Zone                       : +02:00
+Daylight Savings                : Yes
+Date Display Format             : Y/M/D
+ISO Expansion                   : Off
+ISO2                            : 504
+ISO Expansion 2                 : Off
+Vignette Control                : Normal
+Auto Distortion Control         : On
+HDR Info Version                : 0200
+HDR                             : Off
+HDR Level                       : Auto
+Lens Type                       : G VR
+Lens                            : 24-120mm f/4
+Flash Mode                      : Did Not Fire
+Shooting Mode                   : Single-Frame
+Noise Reduction                 : Off
+Color Balance Version           : 0226
+Lens Data Version               : 0204
+Exit Pupil Position             : 93.1 mm
+AF Aperture                     : 4.1
+Focus Position                  : 0x72
+Focus Distance                  : 3.98 m
+Lens ID Number                  : 170
+Lens F Stops                    : 5.00
+Min Focal Length                : 24.5 mm
+Max Focal Length                : 119.9 mm
+Max Aperture At Min Focal       : 4.0
+Max Aperture At Max Focal       : 4.0
+MCU Version                     : 172
+Effective Max Aperture          : 4.0
+Retouch History                 : None
+Image Data Size                 : 4591814
+Shutter Count                   : 7468
+Flash Info Version              : 0108
+Flash Source                    : None
+External Flash Firmware         : n/a
+External Flash Zoom Override    : No
+External Flash Status           : Flash Not Attached
+External Flash Ready State      : n/a
+Flash Compensation              : 0
+Flash GN Distance               : 0
+Flash Group A Control Mode      : Off
+Flash Group B Control Mode      : Off
+Flash Group C Control Mode      : Off
+Flash Group A Compensation      : 0
+Flash Group B Compensation      : 0
+Flash Group C Compensation      : 0
+Vari Program                    : 
+Multi Exposure Version          : 0101
+Multi Exposure Mode             : Off
+Multi Exposure Shots            : 0
+Multi Exposure Auto Gain        : Off
+High ISO Noise Reduction        : High
+Power Up Time                   : 0000:00:00 00:00:00
+AF Info 2 Version               : 0101
+Contrast Detect AF              : Off
+AF Area Mode                    : Single Area
+Phase Detect AF                 : On (51-point)
+Primary AF Point                : B6
+AF Points Used                  : B6
+File Info Version               : 0100
+Memory Card Number              : 0
+Directory Number                : 101
+File Number                     : 7466
+AF Fine Tune                    : On (1)
+AF Fine Tune Index              : n/a
+AF Fine Tune Adj                : +1
+Retouch Info Version            : 0200
+Retouch NEF Processing          : Off
+User Comment                    : Kari Systa
+Sub Sec Time                    : 68
+Sub Sec Time Original           : 68
+Sub Sec Time Digitized          : 68
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 4176
+Exif Image Height               : 2784
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+Sensing Method                  : One-chip color area
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+CFA Pattern                     : [Red,Green][Green,Blue]
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto
+Focal Length In 35mm Format     : 36 mm
+Scene Capture Type              : Standard
+Gain Control                    : None
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Normal
+Subject Distance Range          : Unknown
+Image Unique ID                 : 7ed30087732430c1bbae1e3eb84101c8
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 7112
+Thumbnail Length                : 8388
+XMP Toolkit                     : XMP Core 5.1.2
+Creator Tool                    : NIKON D7500 Ver.1.01
+Rating                          : 0
+Subject                         : ruovesi autionperä
+MPF Version                     : 0100
+Number Of Images                : 3
+MP Image Flags                  : Dependent child image
+MP Image Format                 : JPEG
+MP Image Type                   : Large Thumbnail (full HD equivalent)
+MP Image Length                 : 847154
+MP Image Start                  : 4693365
+Dependent Image 1 Entry Number  : 0
+Dependent Image 2 Entry Number  : 0
+Current IPTC Digest             : f1627ad22edd776a524d642d04a8f926
+Envelope Record Version         : 4
+Coded Character Set             : UTF8
+Application Record Version      : 4
+Keywords                        : ruovesi autionperä
+IPTC Digest                     : f1627ad22edd776a524d642d04a8f926
+Image Width                     : 4176
+Image Height                    : 2784
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:2 (2 1)
+Aperture                        : 9.0
+Blue Balance                    : 1.266602
+Image Size                      : 4176x2784
+Megapixels                      : 11.6
+Red Balance                     : 2.84668
+Scale Factor To 35 mm Equivalent: 1.5
+Shutter Speed                   : 1/500
+Create Date                     : 2021:01:03 13:17:30.68+03:00
+Date/Time Original              : 2021:01:03 13:17:30.68+03:00
+Modify Date                     : 2021:02:28 19:00:22.68+03:00
+Thumbnail Image                 : (Binary data 8388 bytes, use -b option to extract)
+Preview Image                   : (Binary data 79936 bytes, use -b option to extract)
+MP Image 3                      : (Binary data 847154 bytes, use -b option to extract)
+Auto Focus                      : On
+Lens ID                         : AF-S Nikkor 24-120mm f/4G ED VR
+Lens Spec                       : 24-120mm f/4 G VR
+Circle Of Confusion             : 0.020 mm
+Depth Of Field                  : inf (1.78 m - inf)
+Field Of View                   : 52.9 deg (3.96 m)
+Focal Length                    : 24.0 mm (35 mm equivalent: 36.0 mm)
+Hyperfocal Distance             : 3.20 m
+Light Value                     : 13.0

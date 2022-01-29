@@ -1,0 +1,306 @@
+  ExifToolVersion = 11.88
+  FileName = 20210130_184023.JPG
+  Directory = testimages
+  FileSize = 4665261
+  FileModifyDate = 1641474641
+  FileAccessDate = 1641491292
+  FileInodeChangeDate = 1641474641
+  FilePermissions = 33261
+  FileType = JPEG
+  FileTypeExtension = JPG
+  MIMEType = image/jpeg
+JPEG APP1 (15790 bytes):
+  ExifByteOrder = II
+  + [IFD0 directory with 12 entries]
+  | 0)  Make = NIKON CORPORATION
+  | 1)  Model = NIKON D7500
+  | 2)  Orientation = 1
+  | 3)  XResolution = 300 (300/1)
+  | 4)  YResolution = 300 (300/1)
+  | 5)  ResolutionUnit = 2
+  | 6)  Software = Ver.1.01 
+  | 7)  ModifyDate = 2021:02:28 19:01:35
+  | 8)  Artist = KARI SYSTA
+  | 9)  YCbCrPositioning = 2
+  | 10) Copyright = 
+  | 11) ExifOffset (SubDirectory) -->
+  | + [ExifIFD directory with 45 entries]
+  | | 0)  ExposureTime = 0.0015625 (10/6400)
+  | | 1)  FNumber = 2.8 (28/10)
+  | | 2)  ExposureProgram = 3
+  | | 3)  ISO = 5000
+  | | 4)  SensitivityType = 2
+  | | 5)  RecommendedExposureIndex = 5000
+  | | 6)  ExifVersion = 0231
+  | | 7)  DateTimeOriginal = 2021:01:30 18:40:23
+  | | 8)  CreateDate = 2021:01:30 18:40:23
+  | | 9)  OffsetTime = +03:00
+  | | 10) OffsetTimeOriginal = +03:00
+  | | 11) OffsetTimeDigitized = +03:00
+  | | 12) ComponentsConfiguration = 1 2 3 0
+  | | 13) CompressedBitsPerPixel = 4 (4/1)
+  | | 14) ExposureCompensation = 0 (0/6)
+  | | 15) MaxApertureValue = 3 (30/10)
+  | | 16) MeteringMode = 5
+  | | 17) LightSource = 0
+  | | 18) Flash = 16
+  | | 19) FocalLength = 50 (500/10)
+  | | 20) MakerNoteNikon (SubDirectory) -->
+  | | + [MakerNotes directory with 66 entries]
+  | | | 0)  MakerNoteVersion = 0211
+  | | | 1)  Quality = FINE   
+  | | | 2)  WhiteBalance = AUTO1       
+  | | | 3)  FocusMode = AF-S  
+  | | | 4)  FlashSetting =             
+  | | | 5)  FlashType =                    
+  | | | 6)  WhiteBalanceFineTune = 2 0
+  | | | 7)  WB_RBLevels = 1.192871094 2.348632812 1 1 (2443/2048 4810/2048 2048/2048 20[snip]
+  | | | 8)  ProgramShift = ..
+  | | | 9)  ExposureDifference = ..
+  | | | 10) FlashExposureComp = ..
+  | | | 11) ImageBoundary = 0 0 4176 2784
+  | | | 12) ExternalFlashExposureComp = ..
+  | | | 13) FlashExposureBracketValue = ..
+  | | | 14) ExposureBracketValue = 0 (0/6)
+  | | | 15) CropHiSpeed = 12 5600 3728 5600 3728 0 0
+  | | | 16) ExposureTuning = ..
+  | | | 17) SerialNumber = 6046625
+  | | | 18) ColorSpace = 1
+  | | | 19) VRInfo (SubDirectory) -->
+  | | | + [BinaryData directory, 8 bytes]
+  | | | | VRInfoVersion = 0100
+  | | | | VibrationReduction = 1
+  | | | | VRMode = 0
+  | | | 20) ActiveD-Lighting = 65535
+  | | | 21) PictureControlData (SubDirectory) -->
+  | | | + [BinaryData directory, 68 bytes]
+  | | | | PictureControlVersion = 0200
+  | | | | PictureControlName = AUTO
+  | | | | PictureControlBase = AUTO
+  | | | | PictureControlAdjust = 0
+  | | | | PictureControlQuickAdjust = 128
+  | | | | Sharpness = 255
+  | | | | Clarity = 255
+  | | | | Contrast = 255
+  | | | | Brightness = 255
+  | | | | Saturation = 255
+  | | | | Hue = 255
+  | | | | FilterEffect = 255
+  | | | | ToningEffect = 255
+  | | | | ToningSaturation = 255
+  | | | 22) WorldTime (SubDirectory) -->
+  | | | + [BinaryData directory, 4 bytes]
+  | | | | TimeZone = 120
+  | | | | DaylightSavings = 1
+  | | | | DateDisplayFormat = 0
+  | | | 23) ISOInfo (SubDirectory) -->
+  | | | + [BinaryData directory, 14 bytes]
+  | | | | ISO = 128
+  | | | | ISOExpansion = 0
+  | | | | ISO2 = 128
+  | | | | ISOExpansion2 = 0
+  | | | 24) VignetteControl = 3
+  | | | 25) DistortInfo (SubDirectory) -->
+  | | | + [BinaryData directory, 16 bytes]
+  | | | | AutoDistortionControl = 0
+  | | | 26) UnknownInfo (SubDirectory) -->
+  | | | + [BinaryData directory, 574 bytes]
+  | | | 27) HDRInfo (SubDirectory) -->
+  | | | + [BinaryData directory, 6 bytes]
+  | | | | HDRInfoVersion = 0200
+  | | | | HDR = 0
+  | | | | HDRLevel = 0
+  | | | 28) Nikon_0x003b = 1 1 1 1 (2048/2048 2048/2048 2048/2048 2048/2048)
+  | | | 29) Nikon_0x003c = 1
+  | | | 30) Nikon_0x003e = 2
+  | | | 31) Nikon_0x003f = 1.5 0 (6/4 0/4)
+  | | | 32) Nikon_0x0040 = 0100.C0101
+  | | | 33) Nikon_0x0041 = 0100.
+  | | | 34) Nikon_0x0042 = 0100.
+  | | | 35) Nikon_0x0043 = 
+  | | | 36) Nikon_0x0044 = 1
+  | | | 37) Nikon_0x0047 = 0100..
+  | | | 38) Nikon_0x0049 = 0100
+  | | | 39) Nikon_0x004c = 02000210........
+  | | | 40) Nikon_0x004d = 0100.0100.0101......
+  | | | 41) Nikon_0x004e = 0100.0100.0101{..!..............!...........................[snip]
+  | | | 42) LensType = 14
+  | | | 43) Lens = 17 50 2.8 2.8 (170/10 500/10 28/10 28/10)
+  | | | 44) FlashMode = 0
+  | | | 45) ShootingMode = 0
+  | | | 46) Nikon_0x008a = 1
+  | | | 47) LensFStops = H..
+  | | | 48) NoiseReduction = OFF 
+  | | | 49) ColorBalanceUnknown02 (SubDirectory) -->
+  | | | + [BinaryData directory, 2468 bytes]
+  | | | | ColorBalanceVersion = 0226
+  | | | 50) LensData0204 (SubDirectory) -->
+  | | | + [BinaryData directory, 33 bytes]
+  | | | | LensDataVersion = 0204
+  | | | | ExitPupilPosition = 13
+  | | | | AFAperture = 37
+  | | | | FocusPosition = 85
+  | | | | FocusDistance = 109
+  | | | | FocalLength = 80
+  | | | | LensIDNumber = 143
+  | | | | LensFStops = 72
+  | | | | MinFocalLength = 43
+  | | | | MaxFocalLength = 80
+  | | | | MaxApertureAtMinFocal = 36
+  | | | | MaxApertureAtMaxFocal = 36
+  | | | | MCUVersion = 75
+  | | | | EffectiveMaxAperture = 36
+  | | | 51) RetouchHistory = 0 0 0 0 0 0 0 0 0 0
+  | | | 52) ImageDataSize = 3851594
+  | | | 53) Nikon_0x00a3 = 0
+  | | | 54) ShutterCount = 7515
+  | | | 55) FlashInfo0107 (SubDirectory) -->
+  | | | + [BinaryData directory, 163 bytes]
+  | | | | FlashInfoVersion = 0108
+  | | | | FlashSource = 0
+  | | | | ExternalFlashFirmware = 0 0
+  | | | | ExternalFlashZoomOverride = 0
+  | | | | ExternalFlashStatus = 0
+  | | | | ExternalFlashReadyState = 0
+  | | | | FlashCompensation = 0
+  | | | | FlashFocalLength = 0
+  | | | | RepeatingFlashRate = 0
+  | | | | RepeatingFlashCount = 0
+  | | | | FlashGNDistance = 0
+  | | | | FlashGroupAControlMode = 0
+  | | | | FlashGroupBControlMode = 0
+  | | | | FlashGroupCControlMode = 0
+  | | | | FlashGroupACompensation = 0
+  | | | | FlashGroupBCompensation = 0
+  | | | | FlashGroupCCompensation = 0
+  | | | 56) VariProgram =                
+  | | | 57) MultiExposure (SubDirectory) -->
+  | | | + [BinaryData directory, 16 bytes]
+  | | | | MultiExposureVersion = 0101
+  | | | | MultiExposureMode = 0
+  | | | | MultiExposureShots = 0
+  | | | | MultiExposureAutoGain = 0
+  | | | 58) HighISONoiseReduction = 6
+  | | | 59) PowerUpTime = 
+  | | | 60) AFInfo2 (SubDirectory) -->
+  | | | + [BinaryData directory, 84 bytes]
+  | | | | AFInfo2Version = 0101
+  | | | | ContrastDetectAF = 0
+  | | | | AFAreaMode = 0
+  | | | | PhaseDetectAF = 1
+  | | | | PrimaryAFPoint = 6
+  | | | | AFPointsUsed =  
+  | | | | PrimaryAFPoint = 6
+  | | | 61) FileInfo (SubDirectory) -->
+  | | | + [BinaryData directory, 172 bytes]
+  | | | | FileInfoVersion = 0100
+  | | | | MemoryCardNumber = 0
+  | | | | DirectoryNumber = 101
+  | | | | FileNumber = 7515
+  | | | 62) AFTune (SubDirectory) -->
+  | | | + [BinaryData directory, 4 bytes]
+  | | | | AFFineTune = 2
+  | | | | AFFineTuneIndex = 255
+  | | | | AFFineTuneAdj = -8
+  | | | 63) RetouchInfo (SubDirectory) -->
+  | | | + [BinaryData directory, 8 bytes]
+  | | | | RetouchInfoVersion = 0200
+  | | | | RetouchNEFProcessing = -1
+  | | | 64) Nikon_0x00bf = 0
+  | | | 65) Nikon_0x00c0 = <.....
+  | | 21) UserComment = ASCIIKari Systa
+  | | 22) SubSecTime = 51
+  | | 23) SubSecTimeOriginal = 51
+  | | 24) SubSecTimeDigitized = 51
+  | | 25) FlashpixVersion = 0100
+  | | 26) ColorSpace = 1
+  | | 27) ExifImageWidth = 4176
+  | | 28) ExifImageHeight = 2784
+  | | 29) InteropOffset (SubDirectory) -->
+  | | + [InteropIFD directory with 2 entries]
+  | | | 0)  InteropIndex = R98
+  | | | 1)  InteropVersion = 0100
+  | | 30) SensingMethod = 2
+  | | 31) FileSource = 3
+  | | 32) SceneType = 1
+  | | 33) CFAPattern = .....
+  | | 34) CustomRendered = 0
+  | | 35) ExposureMode = 0
+  | | 36) WhiteBalance = 0
+  | | 37) FocalLengthIn35mmFormat = 75
+  | | 38) SceneCaptureType = 0
+  | | 39) GainControl = 2
+  | | 40) Contrast = 0
+  | | 41) Saturation = 0
+  | | 42) Sharpness = 0
+  | | 43) SubjectDistanceRange = 0
+  | | 44) ImageUniqueID = ded399c1965e43b969834f2816d35a10
+  + [IFD1 directory with 7 entries]
+  | 0)  Compression = 6
+  | 1)  XResolution = 300 (300/1)
+  | 2)  YResolution = 300 (300/1)
+  | 3)  ResolutionUnit = 2
+  | 4)  ThumbnailOffset = 7100
+  | 5)  ThumbnailLength = 8683
+  | 6)  YCbCrPositioning = 2
+JPEG APP1 (735 bytes):
+  + [XMP directory, 706 bytes]
+  | XMPToolkit = XMP Core 5.1.2
+  | CreatorTool = NIKON D7500 Ver.1.01    
+  | CreateDate = 2021-01-30T18:40:23.51
+  | Rating = 0
+  | ModifyDate = 2021-02-28T19:01:35+02:00
+  | Subject = korkinm..ki
+JPEG APP2 (4092 bytes):
+  + [MPF0 directory with 3 entries]
+  | 0)  MPFVersion = 0100
+  | 1)  NumberOfImages = 3
+  | 2)  MPImageList (SubDirectory) -->
+  | + [BinaryData directory, 16 bytes]
+  | | MPImageFlags = 20
+  | | MPImageFormat = 0
+  | | MPImageType = 196608
+  | | MPImageLength = 3935127
+  | | MPImageStart = 0
+  | | DependentImage1EntryNumber = 2
+  | | DependentImage2EntryNumber = 3
+  | + [BinaryData directory, 16 bytes]
+  | | MPImageFlags = 8
+  | | MPImageFormat = 0
+  | | MPImageType = 65537
+  | | MPImageLength = 79137
+  | | MPImageStart = 3856374
+  | | DependentImage1EntryNumber = 0
+  | | DependentImage2EntryNumber = 0
+  | + [BinaryData directory, 16 bytes]
+  | | MPImageFlags = 8
+  | | MPImageFormat = 0
+  | | MPImageType = 65538
+  | | MPImageLength = 712888
+  | | MPImageStart = 3935734
+  | | DependentImage1EntryNumber = 0
+  | | DependentImage2EntryNumber = 0
+JPEG APP13 (92 bytes):
+  + [Photoshop directory, 78 bytes]
+  | IPTCData (SubDirectory) -->
+  | + [IPTC directory, 38 bytes]
+  | | CurrentIPTCDigest = ....L...........
+  | | -- IPTCEnvelope record --
+  | | EnvelopeRecordVersion = 4
+  | | CodedCharacterSet = .%G
+  | | -- IPTCApplication record --
+  | | ApplicationRecordVersion = 4
+  | | Keywords = korkinm..ki
+  | IPTCDigest = ....L...........
+JPEG DQT (130 bytes):
+JPEG SOF0 (15 bytes):
+  ImageWidth = 4176
+  ImageHeight = 2784
+  EncodingProcess = 0
+  BitsPerSample = 8
+  ColorComponents = 3
+  YCbCrSubSampling = 2 1
+JPEG DHT (416 bytes):
+JPEG SOS
+  PreviewImage = SCALAR(0x7ffff3eeb250)
+  MPImage3 = SCALAR(0x7ffff3eeae78)

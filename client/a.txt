@@ -1,0 +1,92 @@
+ExifTool Version Number         : 11.88
+File Name                       : a.jpg
+Directory                       : testimages
+File Size                       : 6.2 MB
+File Modification Date/Time     : 2022:01:06 15:40:00+02:00
+File Access Date/Time           : 2022:01:06 15:40:35+02:00
+File Inode Change Date/Time     : 2022:01:06 15:40:00+02:00
+File Permissions                : rwxr-xr-x
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Make                            : samsung
+Camera Model Name               : SM-A520F
+Orientation                     : Rotate 90 CW
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : A520FXXUGCTKA
+Modify Date                     : 2021:07:27 12:21:38
+Y Cb Cr Positioning             : Centered
+Exposure Time                   : 1/100
+F Number                        : 1.9
+Exposure Program                : Program AE
+ISO                             : 50
+Exif Version                    : 0220
+Date/Time Original              : 2021:07:27 12:21:38
+Create Date                     : 2021:07:27 12:21:38
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/100
+Aperture Value                  : 1.9
+Brightness Value                : 4.23
+Exposure Compensation           : 0
+Max Aperture Value              : 1.9
+Metering Mode                   : Center-weighted average
+Flash                           : No Flash
+Focal Length                    : 3.6 mm
+Maker Note Version              : 0100
+Device Type                     : Cell Phone
+Raw Data Byte Order             : Little-endian (Intel, II)
+Raw Data CFA Pattern            : Swap
+Face Detect                     : Off
+User Comment                    : 
+Sub Sec Time                    : 0487
+Sub Sec Time Original           : 0487
+Sub Sec Time Digitized          : 0487
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 4608
+Exif Image Height               : 2592
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Focal Length In 35mm Format     : 27 mm
+Scene Capture Type              : Standard
+Image Unique ID                 : M16LLJA00AM M16LLMD01SA.
+GPS Version ID                  : 2.2.0.0
+GPS Latitude Ref                : North
+GPS Longitude Ref               : East
+GPS Altitude Ref                : Below Sea Level
+GPS Time Stamp                  : 09:21:34
+GPS Date Stamp                  : 2021:07:27
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 1230
+Thumbnail Length                : 42217
+Image Width                     : 4608
+Image Height                    : 2592
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:2 (2 1)
+Time Stamp                      : 2021:07:27 12:21:38+03:00
+Aperture                        : 1.9
+Image Size                      : 4608x2592
+Megapixels                      : 11.9
+Scale Factor To 35 mm Equivalent: 7.5
+Shutter Speed                   : 1/100
+Create Date                     : 2021:07:27 12:21:38.0487
+Date/Time Original              : 2021:07:27 12:21:38.0487
+Modify Date                     : 2021:07:27 12:21:38.0487
+Thumbnail Image                 : (Binary data 42217 bytes, use -b option to extract)
+GPS Altitude                    : 0 m Above Sea Level
+GPS Date/Time                   : 2021:07:27 09:21:34Z
+GPS Latitude                    : 61 deg 57' 27.00" N
+GPS Longitude                   : 23 deg 59' 53.00" E
+Circle Of Confusion             : 0.004 mm
+Field Of View                   : 67.4 deg
+Focal Length                    : 3.6 mm (35 mm equivalent: 27.0 mm)
+GPS Position                    : 61 deg 57' 27.00" N, 23 deg 59' 53.00" E
+Hyperfocal Distance             : 1.70 m
+Light Value                     : 9.5
