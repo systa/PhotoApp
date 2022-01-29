@@ -57,8 +57,8 @@
 //					activeClass: 'image-item',
 //					name: "20210103_131730.JPG",
 					keywords: "ruovesi",
-					thumb: function() { return("output/thumb-" + this.name)},
-					preview: function() { return("output/preview-" + this.name)}
+					thumb: function() { return("/data/output/thumb-" + this.name)},
+					preview: function() { return("/data/output/preview-" + this.name)}
 				}
 			},
 			template: '<div class="image-item"><div><img :src="thumb()"></div><div>{{keywords}} : {{name}}</div><div><A :href="preview()">Preview</A><button>EXIF</button></div></div>',

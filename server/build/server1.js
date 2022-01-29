@@ -2,10 +2,18 @@
 //
 // This file, hopefully, gradually transsfers from learning-support (for typescript) to
 // somethink useful.
-// Copyright(C), Kari Systä, 20222.
+// Copyright(C), Kari Systä, 2022.
 //
+var __importStar = (this && this.__importStar) || function (mod) {
+    if (mod && mod.__esModule) return mod;
+    var result = {};
+    if (mod != null) for (var k in mod) if (Object.hasOwnProperty.call(mod, k)) result[k] = mod[k];
+    result["default"] = mod;
+    return result;
+};
 Object.defineProperty(exports, "__esModule", { value: true });
 var http_1 = require("http");
+var fs = __importStar(require("fs"));
 var pposts = [
     {
         title: 'Lorem ipsum',
@@ -31,11 +39,11 @@ var MyServer = /** @class */ (function () {
             console.log("Server listening on port " + _this.port);
             console.log("This.Class = " + _this.constructor.name);
         });
-        console.log("This.Class = " + this.constructor.name);
+        //	console.log("This.Class = " + this.constructor.name);
     }
     MyServer.prototype.onRequest = function (request, response) {
         var _this = this;
-        console.log("this=" + this + ":" + this.port);
+        //    	console.log("this=" + this + ":" + this.port);
         switch (request.url) {
             case '/posts': {
                 if (request.method === 'GET') {
@@ -44,6 +52,21 @@ var MyServer = /** @class */ (function () {
                     response.end();
                 }
                 break;
+            }
+            case '/start': {
+                fs.readFile("../client/test3.html", function (err, data) {
+                    if (err) {
+                        response.write("Not here");
+                        response.statusCode = 404;
+                        response.end();
+                    }
+                    else {
+                        response.write(data);
+                        response.statusCode = 200;
+                        response.end();
+                    }
+                });
+                ;
             }
             case "/query": {
                 console.log("This.Class = " + this.constructor.name);
@@ -63,9 +86,21 @@ var MyServer = /** @class */ (function () {
                 break;
             }
             default: {
-                response.write("Not here");
-                response.statusCode = 404;
-                response.end();
+                console.log("GET " + request.url);
+                fs.readFile(".." + request.url, function (err, data) {
+                    if (err) {
+                        console.log(err);
+                        response.write("Not here");
+                        response.statusCode = 404;
+                        response.end();
+                    }
+                    else {
+                        response.write(data);
+                        response.statusCode = 200;
+                        response.end();
+                    }
+                });
+                ;
             }
         }
     };
